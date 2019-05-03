@@ -22,7 +22,7 @@ This is a memory game created with React. The application's UI is broken up into
 
 ### Deployed Application
 
-[Clicky Game](https://kateburson.github.io/clickygame)
+[Clicky Game](https://kateburson.github.io/clickygamewithplants)
 
 ### My Portfolio 
 
