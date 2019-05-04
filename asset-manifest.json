@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/clickygame/static/css/main.ffc94ff0.chunk.css",
-    "main.js": "/clickygame/static/js/main.adc40ee2.chunk.js",
-    "main.js.map": "/clickygame/static/js/main.adc40ee2.chunk.js.map",
-    "runtime~main.js": "/clickygame/static/js/runtime~main.bb8261cb.js",
-    "runtime~main.js.map": "/clickygame/static/js/runtime~main.bb8261cb.js.map",
-    "static/js/2.884c28c3.chunk.js": "/clickygame/static/js/2.884c28c3.chunk.js",
-    "static/js/2.884c28c3.chunk.js.map": "/clickygame/static/js/2.884c28c3.chunk.js.map",
-    "index.html": "/clickygame/index.html",
-    "precache-manifest.1d9f68db25b9099d8dd9e4b7b506fe0e.js": "/clickygame/precache-manifest.1d9f68db25b9099d8dd9e4b7b506fe0e.js",
-    "service-worker.js": "/clickygame/service-worker.js",
-    "static/css/main.ffc94ff0.chunk.css.map": "/clickygame/static/css/main.ffc94ff0.chunk.css.map"
+    "main.css": "/clickygamewithplants/static/css/main.ffc94ff0.chunk.css",
+    "main.js": "/clickygamewithplants/static/js/main.083533f8.chunk.js",
+    "main.js.map": "/clickygamewithplants/static/js/main.083533f8.chunk.js.map",
+    "runtime~main.js": "/clickygamewithplants/static/js/runtime~main.18bb5a30.js",
+    "runtime~main.js.map": "/clickygamewithplants/static/js/runtime~main.18bb5a30.js.map",
+    "static/js/2.884c28c3.chunk.js": "/clickygamewithplants/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/clickygamewithplants/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/clickygamewithplants/index.html",
+    "precache-manifest.8c0cf1a25125058e0a98394f394865ff.js": "/clickygamewithplants/precache-manifest.8c0cf1a25125058e0a98394f394865ff.js",
+    "service-worker.js": "/clickygamewithplants/service-worker.js",
+    "static/css/main.ffc94ff0.chunk.css.map": "/clickygamewithplants/static/css/main.ffc94ff0.chunk.css.map"
   }
 }
